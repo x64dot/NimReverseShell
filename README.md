@@ -1,7 +1,7 @@
 # Reverse Shell in Nim
 
 
-Simple reverse shell written in Nim, to provide a basic shell access. 
+Simple reverse shell written in Nim, to provide a basic shell access and an optional anti forensic procedure. 
 
 # Disclaimer
 
